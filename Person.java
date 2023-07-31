@@ -27,4 +27,12 @@ public class Person {
     public void takingShower() {
         System.out.println("Taking a shower now");
     }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
 }
