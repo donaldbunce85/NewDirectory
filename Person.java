@@ -35,4 +35,8 @@ public class Person {
     public String getName() {
         return name;
     }
+
+    public void aNewMethodforgit() {
+        System.out.println("This is a new method you have added to the project. Now you can breathe");
+    }
 }
